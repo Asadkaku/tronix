@@ -1,0 +1,22 @@
+/* =================
+    Theme Base
+   =================*/
+:root {
+  --color-primary: #179BD7;
+  --color-secondary: #1C1C1C;
+  --color-paragraph: #7B7E86;
+  --color-white: #ffffff;
+  --color-white2: #F6FDFF;
+  --color-white3: #F4F4F4;
+  --color-white4: #C0C6D7;
+  --color-white5: #f6f7fa;
+  --color-white6: #f5fbfd;
+  --color-white7: #e6e6e6;
+  --color-blue: #179BD7;
+  --color-black: #1C1C1C;
+  --color-black2: #7B7E86;
+  --color-black3: #1C1C25;
+  --color-border: #DDE0E9;
+  --title-font: "Kanit", sans-serif;
+  --body-font: "Kumbh sans", sans-serif;
+}

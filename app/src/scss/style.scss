@@ -1,0 +1,11 @@
+@use "./autoprefixer/autoprefixer" as *;
+@forward './base/typhography';
+@use "./variables/variables" as *;
+@forward './base/default';
+@forward './utilis/button';
+@forward './utilis/section-title';
+@forward './layout/navbar';
+@forward './utilis/banner';
+@forward './pages/home';
+@forward './layout/footer';
+@forward './utilis/accordion';
